@@ -1,0 +1,10 @@
+{
+  "name": "theme-with-docker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "shopify theme dev",
+    "preview": "shopify theme open -d",
+    "check": "shopify theme check"
+  }
+}
