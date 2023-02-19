@@ -1,1 +1,0 @@
-# Shopify theme with docker
